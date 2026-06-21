@@ -1,6 +1,6 @@
 ### PLEASE READ EVERYTHING!!
 
-This project is a recreation of the AGB-E06-10 PCB used in some early Nintendo Game Boy Advance titles. This is intended for use as a repair board and is also compatible with parts from AGB-E06-01 revision boards, but not compatible as a replacement for E06-20 boards.
+This project is a recreation of the AGB-E06-10 PCB used in some early Nintendo Game Boy Advance titles.Its purpose it to be used as a game repair PCB and is also compatible with parts from AGB-E06-01 revision boards, but it is not compatible as a replacement for AGB-E06-20 boards.
 
 While the E06-01/E06-10 boards were not used on many games, they were used on several early and notable titles. These include:
 
@@ -14,7 +14,7 @@ While the E06-01/E06-10 boards were not used on many games, they were used on se
 
 Considering no known "junk" games used this revision board, the only viable way to repair these games with a new board was to dismantle another desireable game. Not ideal. This is why I took on the task of creating this repair board. I recreated the board by hand in KiCad and used high resolution scans found on [Internet Archive](https://archive.org/details/agb-e-06-10) as a reference.
 
-This board is fully open source, all KiCad and Gerbers are being made freely available. I do not own anything related or take credit for the design, as that is original property of Nintendo. However, if you like my work you can feel free to tip me on [**Ko-Fi**](https://ko-fi.com/jrharbort).
+This board is fully open source, all KiCad and Gerbers are being made freely available. I do not own anything related or take credit for the design, as that is original property of Nintendo. However, if you found this project useful you can feel free to tip me on [**Ko-Fi**](https://ko-fi.com/jrharbort).
 
 ### How to get these boards
 You can download either the Gerber or KiCad files from this project and upload them to be fabricated at the PCB fab of your choice. I recommend using the following settings for fabrication. **IF YOU DO NOT SELECT THESE OPTIONS, YOUR BOARDS WILL NOT FIT OR WORK AS EXPECTED!**
