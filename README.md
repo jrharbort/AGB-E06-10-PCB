@@ -40,15 +40,17 @@ This is a bill of materials taken from a copy of Castlevania - Circle of the Moo
 | R3 | RC0402FR-075KL | 5K Ω Resistor | 0402 |
 | BT1 | CR-1616/F2N | Tabbed CR1616 available online from various stores. | Tabbed CR1616 |
 ## Front
-
-<img width="1024" height="625" alt="AGB-E06-Front" src="https://github.com/user-attachments/assets/9f146843-dab8-451e-b167-f31be50a8ee1" />
+<img width="1024" height="627" alt="AGB-E06-10-Front" src="https://github.com/user-attachments/assets/302f7405-c2b0-46a9-9f4a-8a3525af29bd" />
 
 ## Back
-<img width="1024" height="625" alt="AGB-E06-Rear" src="https://github.com/user-attachments/assets/f58a0cce-7db5-46bb-a5dd-ea371d14d6f6" />
+<img width="1024" height="625" alt="AGB-E06-10-Back" src="https://github.com/user-attachments/assets/b5cd3073-8719-4ca9-a822-9e1b58bea3a3" />
+
 
 ### Credits
 Special thanks to [AchillesPDX](https://github.com/achillespdx) for assistance in verifying some traces in this board design and testing SMD values, completing this project would have been far more difficult without their help.
 
 ### Changes
+Rev 1.1
+- Small change made to edge connector Pin 6. Any boards printed with Rev 1.0 should still not see any functional issues.
 Rev 1.0
 - This is the first revision. Everything should be working as intended if you select the correct options for fabrication. If you encounter any issues please let me know.
