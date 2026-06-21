@@ -51,7 +51,7 @@ Special thanks to [AchillesPDX](https://github.com/achillespdx) for assistance i
 
 ### Changes
 Rev 1.1
-- Small change made to edge connector Pin 6. Any boards printed with Rev 1.0 should still not see any functional issues.
+- Small change made to edge connector Pin 6. Any boards printed with Rev 1.0 should not see any functional issues.
 
 Rev 1.0
 - This is the first revision. Everything should be working as intended if you select the correct options for fabrication. If you encounter any issues please let me know.
