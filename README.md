@@ -1,6 +1,6 @@
 ### PLEASE READ EVERYTHING!!
 
-This project is a recreation of the AGB-E06-10 PCB used in some early Nintendo Game Boy Advance titles.Its purpose it to be used as a game repair PCB and is also compatible with parts from AGB-E06-01 revision boards, but it is not compatible as a replacement for AGB-E06-20 boards.
+This project is a recreation of the AGB-E06-10 PCB used in some early Nintendo Game Boy Advance titles. Its purpose is to be used as a game repair PCB and is also compatible with parts from AGB-E06-01 revision boards, but it is not compatible as a replacement for AGB-E06-20 boards.
 
 While the E06-01/E06-10 boards were not used on many games, they were used on several early and notable titles. These include:
 
