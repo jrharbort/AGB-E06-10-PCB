@@ -31,7 +31,7 @@ This is a bill of materials taken from a copy of Castlevania - Circle of the Moo
 | U1 | Original ROM | The 44-pin ROM chip on the right, get from original Cartridge. | TSOP-44 |
 | U2 | SRAM | 32KB/256Kbit 28-pin SRAM. Obtain from original cartridge or a junk cart. | SOIC-28 |
 | U3 | BU9803F | Power Supervisor IC. Obtain from original cartridge. | SOIC-8 |
-| U4 | PST3425 | Reset IC. | Get From Original Cartridge |
+| U4 | PST3425 | System Reset IC, get from original cartridge. | SOT-25 |
 | C1, C2, C3, C6 | CGA2B2X7R1C154K050BA | 0.15uF Capacitor | 0402 |
 | C4 | CL05B104KO3LNNC | 0.1uF capacitor | 0402 |
 | C5 | N/A | Not populated | 0603 |
