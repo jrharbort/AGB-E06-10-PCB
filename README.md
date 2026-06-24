@@ -39,15 +39,20 @@ This is a bill of materials taken from a copy of Castlevania - Circle of the Moo
 | R2,R4 | RC0402FR-7D100KL | 100K Ω Resistor | 0402 |
 | R3 | RC0402FR-075KL | 5K Ω Resistor | 0402 |
 | BT1 | CR-1616/F2N | Tabbed CR1616 available online from various stores. | Tabbed CR1616 |
+
 ## Front
-<img width="1024" height="627" alt="AGB-E06-10-Front" src="https://github.com/user-attachments/assets/302f7405-c2b0-46a9-9f4a-8a3525af29bd" />
+<img width="2007" height="1215" alt="E06-10-Front" src="https://github.com/user-attachments/assets/492f5362-102c-4962-a07c-c7ebd4ca9a69" />
 
 ## Back
-<img width="1024" height="625" alt="AGB-E06-10-Back" src="https://github.com/user-attachments/assets/b5cd3073-8719-4ca9-a822-9e1b58bea3a3" />
+<img width="2005" height="1215" alt="E06-10-Back" src="https://github.com/user-attachments/assets/9c56c357-075d-4010-a9d3-40e8438f2c98" />
 
 
 ### Credits
 Special thanks to [AchillesPDX](https://github.com/achillespdx) for assistance in verifying some traces in this board design and testing SMD values, completing this project would have been far more difficult without their help.
+
+### Changes
+Rev 1.2
+- Corrected missing connection from VIAs to SRAM pins 24 & 25.
 
 ### Changes
 Rev 1.1
