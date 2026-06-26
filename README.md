@@ -52,7 +52,7 @@ Special thanks to [AchillesPDX](https://github.com/achillespdx) for assistance i
 
 ### Changes
 Rev 1.2
-- Corrected missing connection from VIAs to SRAM pins 24 & 25.
+- Corrected missing connection from VIAs to SRAM pins 24 & 25. Previous revisions will require a wire jump from SRAM pin 25 to ROM pin 28, and SRAM pin 24 to ROM pin 29.
 
 ### Changes
 Rev 1.1
